@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./carolialinnsyst03linngoog_0007.png"; bbox 0 0 706 1175; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 153 404 524 532">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 153 404 524 532">
+     <span class='ocr_line' id='line_1_1' title="bbox 215 404 455 445; baseline -0.004 -3"><span class='ocrx_word' id='word_1_1' title='bbox 215 404 217 407; x_wconf 64' lang='grc'>’</span> <span class='ocrx_word' id='word_1_2' title='bbox 264 419 287 442; x_wconf 92' lang='lat'>0</span> <span class='ocrx_word' id='word_1_3' title='bbox 308 417 455 445; x_wconf 76' lang='lat' dir='ltr'>JEHOVA;</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 153 458 524 491; baseline -0.003 -8"><span class='ocrx_word' id='word_1_4' title='bbox 153 461 232 491; x_wconf 50' lang='lat' dir='ltr'><em>‘Quam</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 247 459 313 491; x_wconf 76' lang='lat' dir='ltr'><strong><em>&#39;ampla</em></strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 322 460 373 490; x_wconf 71' lang='lat' dir='ltr'><em>fitnt</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 387 468 420 483; x_wconf 83' lang='lat' dir='ltr'><em>tua</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 437 458 524 489; x_wconf 70' lang='lat' dir='ltr'><em>Opera?</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 165 495 481 532; baseline 0.003 -9"><span class='ocrx_word' id='word_1_9' title='bbox 165 495 232 531; x_wconf 42' lang='lat' dir='ltr'><strong><em>Qtjam</em></strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 241 502 345 530; x_wconf 75' lang='lat' dir='ltr'><em>Jizpitneer</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 358 502 391 524; x_wconf 83' lang='lat' dir='ltr'><em>Ea</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 400 502 481 532; x_wconf 81' lang='lat' dir='ltr'><em>fecisti!</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 165 542 627 605">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 165 542 627 605">
+     <span class='ocr_line' id='line_1_4' title="bbox 165 542 596 575; baseline 0.002 -10"><span class='ocrx_word' id='word_1_13' title='bbox 165 542 234 573; x_wconf 60' lang='grc' dir='ltr'><em>ριραημ</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 238 543 298 572; x_wconf 73' lang='lat' dir='ltr'><em>plena</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 304 544 334 575; x_wconf 66' lang='lat' dir='ltr'><em>est</em></span> <span class='ocrx_word' id='word_1_16' title='bbox 342 544 406 566; x_wconf 79' lang='lat' dir='ltr'><strong><em>Terra</em></strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 412 542 596 574; x_wconf 47' lang='lat' dir='ltr'><em>pbffiffionevTual</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 408 584 627 605; baseline -0.009 -4"><span class='ocrx_word' id='word_1_18' title='bbox 408 585 484 604; x_wconf 71' lang='lat' dir='ltr'><em>Dum,</em></span> <span class='ocrx_word' id='word_1_19' title='bbox 492 584 545 600; x_wconf 61' lang='lat' dir='ltr'><em>Piala.</em></span> <span class='ocrx_word' id='word_1_20' title='bbox 553 584 627 605; x_wconf 62' lang='lat' dir='ltr'><em>elihu.</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
